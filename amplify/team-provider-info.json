@@ -17,6 +17,9 @@
           "appId": "d2ffnfwuhli1ld",
           "type": "cicd"
         }
+      },
+      "api": {
+        "demo": {}
       }
     }
   }
